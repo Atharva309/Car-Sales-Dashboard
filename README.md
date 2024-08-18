@@ -30,7 +30,7 @@ The dashboard includes:
 
 ## How to Use
 You can interact with the dashboard by:
-- [view the dashboard online here](https://app.powerbi.com/view?r=eyJrIjoiZGI3MjMxNzQtZWU3Mi00MTg0LTkzOWEtNGE1NTcxYzA0MjljIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D)
+- [View the Dashboard online here](https://app.powerbi.com/view?r=eyJrIjoiZGI3MjMxNzQtZWU3Mi00MTg0LTkzOWEtNGE1NTcxYzA0MjljIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D)
 - Selecting different car manufacturers to update logos and visualizations.
 - Navigating through the pages to explore manufacturer-specific and model-specific details.
 - Hovering over data points to reveal additional insights with custom tooltips.
