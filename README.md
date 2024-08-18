@@ -30,15 +30,19 @@ You can interact with the dashboard by:
 
 ## Project Screenshots
 
+### Manufacturer detail page
 <p align="center">
   <img src="IMAGES/output1.png" title="output1" width="800" height="auto" />
 </p>
+
+### tooltip for manufacturer page
 <p align="center">
   <img src="IMAGES/output2.png" title="output2" width="800" height="auto" />
 </p>
 <p align="center">
   <img src="IMAGES/output3.png" title="output3" width="800" height="auto" />
 </p>
+
 <p align="center">
   <img src="IMAGES/output4.png" title="output4" width="800" height="auto" />
 </p>
